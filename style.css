@@ -1,0 +1,19 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.apple-healty{
+    color: orange;
+}
+.orange-healty{
+    width: 80%;
+}
+.section-one{
+    display: flex;
+}
+.milk-healty{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.paki{
+    margin-left: 300px;
+}
